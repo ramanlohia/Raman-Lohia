@@ -1,0 +1,39 @@
+body{
+    
+    text-align: center;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+.f-line{
+    font-family: 'Courgette', cursive;
+}
+p{
+    font-family: 'Cookie', cursive;
+}
+.top-container{
+    background-color: rgb(191, 236, 229);
+}
+.topcloud{
+    width: 180px;
+    margin-left: 600px;
+}
+.bottomcloud{
+    position: absolute;
+    margin-left: 50px;
+    width: 180px;
+}
+.mountain{
+    margin-top: 150px;
+    width: 1000px;
+}
+.student{
+    width: 150px;
+}
+.web{
+    width: 120px;
+}
+.smartphone{
+    width: 120px;
+}
